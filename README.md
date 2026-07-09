@@ -19,4 +19,3 @@ A simple Student Management System developed using Python.
 
 - main
 - feature-add-update
-- feature-search-display
